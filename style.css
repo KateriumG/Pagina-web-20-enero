@@ -1,3 +1,8 @@
 body {
     background-color: aqua;
 }
+
+header {
+    border: 10px solid;
+    text-align: center;
+}
